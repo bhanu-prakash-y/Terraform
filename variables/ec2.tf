@@ -1,4 +1,4 @@
-resource "aws_instance" "example" {
+resource "aws_instance" "ec2" {
   ami           = var.ami_id
   # if dev t3.micro, otherwise t3.small
   instance_type = var.instance_type

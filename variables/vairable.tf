@@ -12,7 +12,7 @@ variable "instance_type" {
 variable "ec2_tags" {
   type = map
   default = {
-    Name = "variables-demo"
+    Name = "terraform-variables-demo"
     Project = "roboshop"
     Terraform = "true"
     Environment = "dev"
