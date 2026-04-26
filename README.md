@@ -28,8 +28,8 @@ We need to understand what are the advantages and problems terraform is solving.
 * **Modular Infra:** <br />
     We can develop our own modules or use open source modules to reuse the infra code. Any one can reuse our code and create infra instead of spending more time on their own.
 
-=======
 
+-----
 
 
 
